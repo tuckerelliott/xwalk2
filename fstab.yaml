@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/xwalk2/main"
+    url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/xwalk-site2/main"
     type: "markup"
     suffix: ".html?wcmmode=disabled"
