@@ -7,7 +7,7 @@ export default function decorate(block) {
   const authorDiv = block.querySelector('div:nth-child(2)');
   if (authorDiv) {
     const author = document.createElement('p');
-    author.innerHTML = '<b><i>${authorDiv.innerHTML}</i></b>';
+    author.innerHTML = `<b><i>${authorDiv.innerHTML}</i></b>`;
     authorDiv.replaceWith(author);
   }
 }
