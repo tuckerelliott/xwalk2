@@ -192,7 +192,7 @@ main .section {
 
 @media (width >= 600px) {
   main .section {
-    padding: 32px 32px;
+    padding: 32px;
   }
 }
 
